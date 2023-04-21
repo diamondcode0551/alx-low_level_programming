@@ -2,7 +2,7 @@
 #include <stdarg.h>
 
 /**
- * sum_them all - return the sum of all its parameters.
+ * sum_them_all - return the sum of all its parameters.
  * @n: the number of parameters to the function.
  * @...: a variable number of parameters to calculate the sum of.
  * Return: if n == 0 - 0.
